@@ -1,0 +1,17 @@
+com\example\nursesassociation\repository\EventRepository.class
+com\example\nursesassociation\model\Chapter.class
+com\example\nursesassociation\model\Speaker.class
+com\example\nursesassociation\model\Conference.class
+com\example\nursesassociation\repository\ChapterRepository.class
+com\example\nursesassociation\service\ChapterService.class
+com\example\nursesassociation\model\Member.class
+com\example\nursesassociation\model\ResponseStatus.class
+com\example\nursesassociation\model\Status.class
+com\example\nursesassociation\model\Event.class
+com\example\nursesassociation\model\Exposition.class
+com\example\nursesassociation\controller\EventController.class
+com\example\nursesassociation\NursesAssociationApplication.class
+com\example\nursesassociation\model\Guest.class
+com\example\nursesassociation\controller\HomeController.class
+com\example\nursesassociation\controller\ChapterController.class
+com\example\nursesassociation\service\EventService.class
